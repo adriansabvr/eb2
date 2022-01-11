@@ -27,7 +27,7 @@ python manage.py runserver
 4
 ¡Listo! Ahora puedes navegar en el sistema utilizando la dirección señalada en la consola.
 ```
-http://127.0.0.1:8000/
+http://127.0.0.1:8000/properties/
 ```
 
 ## Capturas
