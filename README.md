@@ -1,5 +1,7 @@
 # eb2
-## Instrucciones
+## Importante
+La mayor parte del desarrollo realizado se encuentra en el modulo /easy_broker/properties/, lo demas en gran parte es generado por el framework.
+## Instrucciones de instalacion
 Para poder ejecutar este proyecto es necesario tener instalado conda. Para lo cual yo recomiendo instalar miniconda para una instalación ligera.
 * https://docs.conda.io/en/latest/miniconda.html
 
