@@ -28,7 +28,25 @@ python manage.py runserver
 http://127.0.0.1:8000/
 ```
 
-## Capturas y Video de funcionamiento
+## Capturas
+Listado
+![Lista](/img/Screenshot_1.png?raw=true "Vistazo general 1")
+![Vistazo general 2](/img/Screenshot_2.png?raw=true "Vistazo general 1")
+![Vistazo general 3](/img/Screenshot_3.png?raw=true "Vistazo general 1")
+![Vistazo general 4](/img/Screenshot_4.png?raw=true "Vistazo general 1")
+Detalles
+![Detalles](/img/Screenshot_5.png?raw=true "Detalles")
+Slider
+![Slider](/img/Screenshot_6.png?raw=true "Slider")
+Uso de formulario
+![Uso de formulario](/img/Screenshot_7.png?raw=true "Uso de formulario")
+Notificacion
+![Notificacion](/img/Screenshot_8.png?raw=true "Notificacion")
+Paginacion
+![Paginacion](/img/Screenshot_9.png?raw=true "Paginacion")
+Si el usuario modifica la url, y esta no existe tenemos un 404
+![404](/img/Screenshot_10.png?raw=true "404")
+![404](/img/Screenshot_11.png?raw=true "404")
 
 ## Notas
 A continuación escribo una retrospectiva del desarrollo de este proyecto.
